@@ -8,6 +8,7 @@
 
 ## Vocabulary Table
     - Provide us a table of vocabulary, only include nouns, verbs, adjectives and adverbs
+    - The headings for the table are (English) (Arabic) (Part of Speech)
     - Do not provide particles in the vocabulary, student needs to figure this the correct particles to use
     - Provide words in their dictionary form, student needs to figure out conjugations and tenses
     - don't use literature translation, use the meaning that is wanted to be deliverd  
