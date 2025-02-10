@@ -43,14 +43,14 @@ This is example of good response, try to memic the structure:
 <guidance>
 
     Vocabulary Table
-    | English  | Arabic  | Part of Speech |
-    |----------|--------|----------------|
-    | bear     | دُبّ   | noun           |
-    | door     | باب    | noun           |
-    | garbage  | قمامة  | noun           |
-    | leave    | ترك    | verb           |
-    | out      | خارج  | adverb         |
-    | did      | فعل    | verb           |
+| English  | Arabic  | Part of Speech |
+|----------|--------|----------------|
+| bear     | دُبّ   | noun           |
+| door     | باب    | noun           |
+| garbage  | قمامة  | noun           |
+| leave    | ترك    | verb           |
+| out      | خارج  | adverb         |
+| did      | فعل    | verb           |
 
     Sentence Order
     Here's the order of words in the given sentence:
