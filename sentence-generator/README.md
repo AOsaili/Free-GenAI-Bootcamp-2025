@@ -36,4 +36,4 @@ Weaknesses:
 - Performance: DeepSeek's MoE architecture allows for efficient processing, especially in specialized tasks. ChatGPT 3.5 excels in general-purpose tasks but may be resource-intensive.
 - Integration and Support: meatAI offers tailored integration but may lack the scalability and support of established models. DeepSeek's open-source nature allows for customization but may have a smaller support community. ChatGPT 3.5 benefits from a large community and extensive resources.
 
-Overall, after the comparison, i'd prefare to use ChatGPT 3.5 for the project
+Overall, after the comparison, i'd prefare to use ChatGPT 3.5 for the project.
