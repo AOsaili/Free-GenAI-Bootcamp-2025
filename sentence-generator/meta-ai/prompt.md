@@ -42,6 +42,7 @@ This is example of good response, try to memic the structure:
 Bear are at the door, did you leave the garbage out?
 Intermediate
 </userinput>
+
 <guidance>
 Vocabulary Table
 | English  | Arabic  | Part of Speech |
