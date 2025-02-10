@@ -37,12 +37,13 @@
 
 ## Example
 This is example of good response, try to memic the structure:
+
 <user_input>
     Bear are at the door, did you leave the garbage out?
     Intermediate
 </user_input>
 <guidance>
-    Vocabulary Table
+Vocabulary Table
 | English  | Arabic  | Part of Speech |
 |----------|--------|----------------|
 | bear     | دُبّ   | noun           |
@@ -65,6 +66,7 @@ This is example of good response, try to memic the structure:
     Make an attempt to translate the sentence, and I'll provide feedback and suggestions for improvement!
 </guidance>
 <feedback>
+
     1. Instead of "هناك دب في الخارج", consider using a more precise phrase to convey "at the door". Think about the preposition you're using and how it affects the meaning.
     2. Your translation of "did you leave the garbage out" is close, but the word order could be improved. Think about how to arrange the words to make the sentence flow better.
     3. Consider using the correct verb form for "leave" in the past tense. You're close, but there's a small mistake.
