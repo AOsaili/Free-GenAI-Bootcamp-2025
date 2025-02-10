@@ -14,6 +14,7 @@
 - Don't use literature translation, use the meaning that is wanted to be deliverd  
 - Don't provide tenses in the vocabulary table
 - if there is more than one version of a word, show the most common synonym
+- Put the Vocabulary Table words in order of the sentence, don't duplicate words
 
 ## Sentence Order 
 Provide user with oeder of words in the given sentence
