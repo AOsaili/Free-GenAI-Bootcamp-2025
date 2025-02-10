@@ -37,8 +37,8 @@
 
 ## Example
 This is example of good response, try to memic the structure:
-    - Sentence:   Bear are at the door, did you leave the garbage out?
-    - Difficulty: Intermediate
+- Sentence:   Bear are at the door, did you leave the garbage out?
+- Difficulty: Intermediate
 
 <guidance>
 
