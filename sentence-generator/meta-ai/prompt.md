@@ -38,8 +38,6 @@ This is example of good response, try to memic the structure:
 - Sentence:   Bear are at the door, did you leave the garbage out?
 - Difficulty: Intermediate
 
-<guidance>
-
     Vocabulary Table
 
 | English  | Arabic  | Part of Speech |
@@ -62,13 +60,10 @@ This is example of good response, try to memic the structure:
         4. Think about the word order in the second part of the sentence. How would you arrange the words to convey the question?
 
     Make an attempt to translate the sentence, and I'll provide feedback and suggestions for improvement!
-</guidance>
-<feedback>
 
 1. Instead of "هناك دب في الخارج", consider using a more precise phrase to convey "at the door". Think about the preposition you're using and how it affects the meaning.
 2. Your translation of "did you leave the garbage out" is close, but the word order could be improved. Think about how to arrange the words to make the sentence flow better.
 3. Consider using the correct verb form for "leave" in the past tense. You're close, but there's a small mistake.
-</feedback>
 
 ## Student Input:
 - Sentence:   If it starts raining, we will have to cancel the picnic.
