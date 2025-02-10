@@ -13,9 +13,9 @@
 - Provide words in their dictionary form, student needs to figure out conjugations and tenses
 - Don't use literature translation, use the meaning that is wanted to be deliverd  
 - Don't provide tenses in the vocabulary table
-- if there is more than one version of a word, show the most common synonym
-
-## Sentence Order
+- if there is , show the most common synonym
+more than one version of a word
+## Sentence Order 
 Provide user with oeder of words in the given sentence
 eg: 
 1. After finishing his homework, Tom watched a movie with his friends.
