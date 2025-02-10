@@ -43,6 +43,7 @@ This is example of good response, try to memic the structure:
 <guidance>
 
     Vocabulary Table
+
 | English  | Arabic  | Part of Speech |
 |----------|--------|----------------|
 | bear     | دُبّ   | noun           |
