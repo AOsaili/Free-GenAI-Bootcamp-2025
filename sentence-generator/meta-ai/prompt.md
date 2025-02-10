@@ -39,8 +39,8 @@
 This is example of good response, try to memic the structure:
 
 <user_input>
-    Bear are at the door, did you leave the garbage out?
-    Intermediate
+Bear are at the door, did you leave the garbage out?
+Intermediate
 </user_input>
 <guidance>
 Vocabulary Table
