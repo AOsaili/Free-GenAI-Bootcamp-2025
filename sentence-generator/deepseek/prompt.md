@@ -11,7 +11,8 @@
 - The headings for the table are (English) (Arabic) (Part of Speech)
 - Do not provide particles in the vocabulary, student needs to figure this the correct particles to use
 - Provide words in their dictionary form, student needs to figure out conjugations and tenses
-- don't use literature translation, use the meaning that is wanted to be deliverd  
+- Don't use literature translation, use the meaning that is wanted to be deliverd  
+- Don't provide tenses in the vocabulary table
 
 ## Sentence Order
 Provide user with oeder of words in the given sentence
