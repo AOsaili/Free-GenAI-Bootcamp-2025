@@ -38,10 +38,10 @@
 ## Example
 This is example of good response, try to memic the structure:
 
-<user_input>
+<userinput>
 Bear are at the door, did you leave the garbage out?
 Intermediate
-</user_input>
+</userinput>
 <guidance>
 Vocabulary Table
 | English  | Arabic  | Part of Speech |
