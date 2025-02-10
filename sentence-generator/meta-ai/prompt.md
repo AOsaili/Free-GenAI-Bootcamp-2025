@@ -71,5 +71,5 @@ This is example of good response, try to memic the structure:
 </feedback>
 
 ## Student Input:
-- Sentence:   Bear are at the door, did you leave the garbage out?
+- Sentence:   If it starts raining, we will have to cancel the picnic.
 - Difficulty: Intermediate
